@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjetoBanco</id>
+    <version>1.0.0</version>
+    <authors>ProjetoBanco</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.runtimeconfig.json" target="lib\net6.0\ProjetoBanco.runtimeconfig.json" />
+    <file src="C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.dll" target="lib\net6.0\ProjetoBanco.dll" />
+  </files>
+</package>

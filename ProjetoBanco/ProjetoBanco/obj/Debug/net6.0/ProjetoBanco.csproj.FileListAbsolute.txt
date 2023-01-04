@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.exe
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.deps.json
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.dll
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.pdb
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.dll
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\refint\ProjetoBanco.dll
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.pdb
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Imã\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ref\ProjetoBanco.dll
